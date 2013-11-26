@@ -2,10 +2,10 @@
 
 
 
-pubic class TestHelloWorld {
+public class TestHelloWorld {
 	public static void main(String []args) {
 	
-		system.out.println(Hello Welcome to GitHub!);
+		System.out.println(Hello Welcome to GitHub!);
 		
 	}
 }
